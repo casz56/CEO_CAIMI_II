@@ -1,0 +1,8 @@
+TABLERO ESTRATÉGICO CAIMI v1.1.1
+
+1. Elimine el index.html anterior del repositorio.
+2. Suba index.html, 404.html y .nojekyll a la raíz de Consultoria-CAIMI.
+3. En Settings > Pages use main / (root).
+4. Abra la página con Ctrl+F5.
+
+El módulo Cargar archivos trabaja localmente con IndexedDB. Los archivos no se suben a GitHub ni a servidores externos.
