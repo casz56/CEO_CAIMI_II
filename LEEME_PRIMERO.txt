@@ -1,7 +1,7 @@
-TABLERO ESTRATÉGICO CAIMI v1.1.3
+TABLERO ESTRATÉGICO CAIMI v1.1.5
 
 1. Elimine el index.html anterior del repositorio.
-2. Suba index.html, 404.html y .nojekyll a la raíz de Consultoria-CAIMI.
+2. Suba index.html, 404.html y .nojekyll a la raíz del repositorio CEO_CAIMI_II.
 3. En Settings > Pages use main / (root).
 4. Abra la página con Ctrl+F5.
 
